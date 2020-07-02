@@ -1,0 +1,2 @@
+rootProject.name='Demetra'
+include ':app'
