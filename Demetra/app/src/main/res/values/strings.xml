@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Demetra</string>
+    <string name="demetra">Demetra</string>
+    <string name="ciao">Ciao!</string>
+    <string name="clicca_per_iniziare">Clicca per iniziare</string>
+    <string name="login">Login</string>
+    <string name="Registrazione">Registrati</string>
+
+    <string name="Nome">Nome</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Conferma_password">Conferma password</string>
+    <string name="Nome_placeholder">Inserisci il tuo nome</string>
+    <string name="Email_placeholder">Inserisci la tua email</string>
+    <string name="Password_placeholder">Inserisci la tua password</string>
+    <string name="Conferma_password_placeholder">Conferma la tua password</string>
+    <string name="Pulsante_accesso">Accesso</string>
+    <string name="termini_condizioni">Termini e condizioni</string>
+
+    <string name="account_esistente">Ho già un account</string>
+    <string name="nuovo_account">Non ho un account</string>
+
+    <string name="Temperatura">Temperatura</string>
+    <string name="Acqua">Acqua</string>
+    <string name="Scansione">Scansione</string>
+    <string name="Nutrienti">Nutrienti</string>
+    <string name="Meteo">Meteo</string>
+    <string name="Fertilizzante">Fertilizzante</string>
+
+    <string name="Temp_32C">32</string>
+    <string name="Acqua_80">80</string>
+    <string name="Scansione_25">25</string>
+    <string name="Nutrienti_60">60</string>
+    <string name="Meteo_25">25</string>
+    <string name="Fertilizzante_25">25</string>
+    <string name="Temp_gradi">°C</string>
+    <string name="Percentuale">%</string>
+
+    <string name="Ciao_Giuliana">Ciao, Giuliana</string>
+    <string name="Promemoria">Promemoria</string>
+    <string name="Nuovi_semi">Nuovi semi</string>
+    <string name="Annaffiare_piante">Annaffiare piante</string>
+    <string name="Effettuare_scansione">Effettuare scansione</string>
+    <string name="Aggiungi">Aggiungi</string>
+    <string name="pulsante_indietro">Pulsante indietro</string>
+    <string name="sfondo">Sfondo homepage</string>
+    <string name="logo">Logo Demetra</string>
+</resources>
