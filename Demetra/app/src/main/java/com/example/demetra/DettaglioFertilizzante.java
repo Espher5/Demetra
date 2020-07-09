@@ -21,7 +21,8 @@ public class DettaglioFertilizzante extends AppCompatActivity {
 
         ImageView user = findViewById(R.id.imageView9);
         user.setOnClickListener(v -> {
-
+            Intent intent = new Intent(getApplicationContext(), Utente.class);
+            startActivity(intent);
         });
 
         ImageView calendar = findViewById(R.id.imageView10);
