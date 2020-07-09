@@ -24,7 +24,8 @@ public class MainScreenActivity extends AppCompatActivity {
 
         ImageView calendar = findViewById(R.id.imageView10);
         calendar.setOnClickListener(v -> {
-
+            Intent intent = new Intent(getApplicationContext(), CalendarioActivity.class);
+            startActivity(intent);
         });
 
         ImageView home = findViewById(R.id.imageView3);
