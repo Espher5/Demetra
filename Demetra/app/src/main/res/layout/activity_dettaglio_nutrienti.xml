@@ -102,18 +102,6 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <ImageView
-        android:id="@+id/imageView11"
-        android:layout_width="45dp"
-        android:layout_height="50dp"
-        app:layout_constraintBottom_toBottomOf="@+id/view2"
-        app:layout_constraintEnd_toEndOf="@+id/view2"
-        app:layout_constraintHorizontal_bias="0.493"
-        app:layout_constraintStart_toStartOf="@+id/view2"
-        app:layout_constraintTop_toTopOf="@+id/view2"
-        app:layout_constraintVertical_bias="0.96"
-        app:srcCompat="@drawable/more" />
-
-    <ImageView
         android:id="@+id/imageView9"
         android:layout_width="50dp"
         android:layout_height="50dp"

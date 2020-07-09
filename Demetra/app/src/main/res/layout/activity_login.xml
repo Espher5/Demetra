@@ -14,8 +14,8 @@
 
     <View
         android:id="@+id/view11"
-        android:layout_width="375dp"
-        android:layout_height="329dp"
+        android:layout_width="280dp"
+        android:layout_height="342dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
